@@ -8,7 +8,7 @@ This document provides a comprehensive guide to rendering and routing in Next.js
 
 This document applies to the Next.js **Pages Router** (using the `pages/` directory for file-based routing). As of April 2025, the Pages Router remains relevant for maintaining and upgrading existing Next.js applications, particularly those built before the App Router’s introduction in Next.js 13. The techniques described (e.g., `getServerSideProps`, `getStaticProps`) are compatible with Next.js versions 9 through 14 and likely later, though the App Router is recommended for new projects. Check the official Next.js documentation for any version-specific changes or deprecations.
 
-For advanced Next.js features that complement rendering and routing—such as API Routes, Middleware, Preview Mode, and Internationalized Routing—refer to the companion document ["Advanced Next.js Features for the Pages Router: A Practical Guide"](link-to-advanced-document).
+For advanced Next.js features that complement rendering and routing—such as API Routes, Middleware, Preview Mode, and Internationalized Routing—refer to the companion document ["Advanced Next.js Features for the Pages Router: A Practical Guide"](https://github.com/MichaelAblerCode/next_pagesrouter_advanced#).
 
 This document is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License. You may share it in its original form, provided you credit the author. See LICENSE.md for details.
 
@@ -32,11 +32,11 @@ The purpose of this document is to serve as a focused, practical resource for im
 
 The motivation for this document stems from the critical role that rendering and routing play in Next.js applications. Choosing the right rendering method impacts user experience, search engine visibility, server costs, and development efficiency. By consolidating essential concepts, examples, and decision-making guidance into a single resource, this document aims to streamline the learning process and empower developers to build high-performance Next.js applications.
 
-For advanced Next.js features that complement rendering and routing—such as API Routes, Middleware, Preview Mode, and Internationalized Routing—refer to the companion document ["Advanced Next.js Features"](link-to-advanced-document).
+For advanced Next.js features that complement rendering and routing—such as API Routes, Middleware, Preview Mode, and Internationalized Routing—refer to the companion document ["Advanced Next.js Features for the Pages Router: A Practical Guide"](https://github.com/MichaelAblerCode/next_pagesrouter_advanced#).
 
 ### Contributions
 
-Contributions to this document are welcome! I encourage the community to suggest improvements, correct errors, or propose additional examples to enhance its value. To contribute, please fork the repository on GitHub, submit pull requests with your changes, or open issues to discuss ideas. All contributions will be reviewed to ensure alignment with the document’s purpose and quality standards. Note that the document is licensed under CC BY-ND 4.0, meaning only the official, unmodified version may be distributed publicly, but your contributions can be incorporated into updates by the author. For details, see the [CONTRIBUTING.md](link-to-contributing-md) file in the repository.
+Contributions to this document are welcome! I encourage the community to suggest improvements, correct errors, or propose additional examples to enhance its value. To contribute, please fork the repository on GitHub, submit pull requests with your changes, or open issues to discuss ideas. All contributions will be reviewed to ensure alignment with the document’s purpose and quality standards. Note that the document is licensed under CC BY-ND 4.0, meaning only the official, unmodified version may be distributed publicly, but your contributions can be incorporated into updates by the author. For details, see the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository.
 
 # Table of Contents
 

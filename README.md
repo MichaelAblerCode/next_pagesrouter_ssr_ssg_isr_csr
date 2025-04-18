@@ -348,8 +348,6 @@ Choosing the right rendering method in Next.js depends on factors like performan
 
 # License
 
-This document, "Next.js Rendering and Routing," is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License.
-
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
+This project is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). See the [LICENSE](LICENSE) file for details
 
 Copyright © 2025 Michael Abler. Licensed under CC BY-ND 4.0.

@@ -1,7 +1,9 @@
 # License
 
-This "Next.js Rendering and Routing" project's documents, code and files, is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License.
+Creative Commons Attribution-NoDerivatives 4.0 International Public License
 
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
+[Full text: https://creativecommons.org/licenses/by-nd/4.0/legalcode]
 
 Copyright © 2025 Michael Abler. Licensed under CC BY-ND 4.0.

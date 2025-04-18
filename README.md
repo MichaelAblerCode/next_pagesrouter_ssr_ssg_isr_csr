@@ -1,10 +1,14 @@
-# Next.js Rendering and Routing
+# Next.js Rendering and Routing for the Pages Router: A Practical Guide
 
 Copyright © 2025 Michael Abler. Licensed under CC BY-ND 4.0.
 
 ## Introduction
 
 This document provides a comprehensive guide to rendering and routing in Next.js, a popular React framework for building modern web applications. It focuses on the core rendering methods—Server-Side Rendering (SSR), Static Site Generation (SSG), Incremental Static Regeneration (ISR), and Client-Side Rendering (CSR)—and their associated routing patterns, such as dynamic and prerendered URLs. By explaining key concepts, functions, and practical examples, the document equips developers with the knowledge to implement efficient and scalable page-rendering strategies in Next.js.
+
+This document applies to the Next.js **Pages Router** (using the `pages/` directory for file-based routing). As of April 2025, the Pages Router remains relevant for maintaining and upgrading existing Next.js applications, particularly those built before the App Router’s introduction in Next.js 13. The techniques described (e.g., `getServerSideProps`, `getStaticProps`) are compatible with Next.js versions 9 through 14 and likely later, though the App Router is recommended for new projects. Check the official Next.js documentation for any version-specific changes or deprecations.
+
+For advanced Next.js features that complement rendering and routing—such as API Routes, Middleware, Preview Mode, and Internationalized Routing—refer to the companion document ["Advanced Next.js Features for the Pages Router: A Practical Guide"](link-to-advanced-document).
 
 This document is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License. You may share it in its original form, provided you credit the author. See LICENSE.md for details.
 
@@ -33,10 +37,6 @@ For advanced Next.js features that complement rendering and routing—such as AP
 ### Contributions
 
 Contributions to this document are welcome! I encourage the community to suggest improvements, correct errors, or propose additional examples to enhance its value. To contribute, please fork the repository on GitHub, submit pull requests with your changes, or open issues to discuss ideas. All contributions will be reviewed to ensure alignment with the document’s purpose and quality standards. Note that the document is licensed under CC BY-ND 4.0, meaning only the official, unmodified version may be distributed publicly, but your contributions can be incorporated into updates by the author. For details, see the [CONTRIBUTING.md](link-to-contributing-md) file in the repository.
-
-**Note**: This document applies to the Next.js **Pages Router** (using the `pages/` directory for file-based routing). As of April 2025, the Pages Router remains relevant for maintaining and upgrading existing Next.js applications, particularly those built before the App Router’s introduction in Next.js 13. The techniques described (e.g., `getServerSideProps`, `getStaticProps`) are compatible with Next.js versions 9 through 14 and likely later, though the App Router is recommended for new projects. Check the official Next.js documentation for any version-specific changes or deprecations.
-
-For advanced Next.js features that complement rendering and routing—such as API Routes, Middleware, Preview Mode, and Internationalized Routing—refer to the companion document ["Advanced Next.js Features"](link-to-advanced-document).
 
 # Table of Contents
 

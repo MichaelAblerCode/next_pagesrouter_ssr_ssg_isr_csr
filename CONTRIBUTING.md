@@ -1,4 +1,4 @@
-# Contributing to Next.js Rendering and Routing
+# Next.js Rendering and Routing for the Pages Router: A Practical Guide
 
 Thank you for your interest in contributing to the "Next.js Rendering and Routing" document! I welcome suggestions, corrections, and additional examples to improve this resource.
 

@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the "Next.js Rendering and Routin
 ## How to Contribute
 
 1. **Fork the Repository**: Create a fork of this repository on GitHub.
-2. **Make Changes**: Edit the markdown file(s) in your fork, following the existing style (e.g., clear headings, concise examples).
+2. **Make Changes**: Edit the markdown file(s) and code examples in your fork, following the existing style (e.g., clear headings, concise examples).
 3. **Submit a Pull Request**: Open a pull request with a clear description of your changes and their purpose.
 4. **Discuss Ideas**: For major changes, open an issue to discuss your proposal before submitting a pull request.
 
@@ -13,7 +13,7 @@ Thank you for your interest in contributing to the "Next.js Rendering and Routin
 
 - Ensure changes align with the document’s focus on Next.js rendering and routing.
 - Use clear, concise language and valid code examples.
-- Respect the CC BY-ND 4.0 license: Contributions will be incorporated into the official document, which remains unmodified in public distributions.
+- Respect the BSD 3-Clause License: Contributions will be incorporated into the official document and code, licensed under BSD 3-Clause. Ensure your contributions include the copyright notice and license terms as outlined in the [LICENSE](LICENSE) file, and do not use the names of the copyright holder or contributors to endorse or promote derivatives without permission.
 
 ## Review Process
 

@@ -3,10 +3,8 @@
  *
  * Copyright © 2025 Michael Abler
  *
- * This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0
- * International License (CC BY-ND 4.0). To view a copy of this license, visit
- * https://creativecommons.org/licenses/by-nd/4.0/ or see the LICENSE file in the
- * root directory of this source tree.
+ * This work is licensed under the BSD 3-Clause License. See the LICENSE file in
+ * the root directory of this source tree for details.
  *
  * @author Michael Abler
  * @see https://github.com/MichaelAblerCode/next_pagesrouter_rendering

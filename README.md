@@ -1,6 +1,6 @@
 # Next.js Rendering and Routing for the Pages Router: A Practical Guide
 
-Copyright © 2025 Michael Abler. Licensed under CC BY-ND 4.0.
+Copyright (c) 2025 Michael Abler. Licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
 
 ## Introduction
 
@@ -10,7 +10,7 @@ This document applies to the Next.js **Pages Router** (using the `pages/` direct
 
 For advanced Next.js features that complement rendering and routing—such as API Routes, Middleware, Preview Mode, and Internationalized Routing—refer to the companion document ["Advanced Next.js Features for the Pages Router: A Practical Guide"](https://github.com/MichaelAblerCode/next_pagesrouter_advanced#).
 
-This document is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License. You may share it in its original form, provided you credit the author. See LICENSE.md for details.
+This document is licensed under the BSD 3-Clause License. You may use, modify, and share it, provided you retain the copyright notice and license terms. See [LICENSE.md](LICENSE.md) for details.
 
 ### Target Audience
 
@@ -36,7 +36,7 @@ For advanced Next.js features that complement rendering and routing—such as AP
 
 ### Contributions
 
-Contributions to this document are welcome! I encourage the community to suggest improvements, correct errors, or propose additional examples to enhance its value. To contribute, please fork the repository on GitHub, submit pull requests with your changes, or open issues to discuss ideas. All contributions will be reviewed to ensure alignment with the document’s purpose and quality standards. Note that the document is licensed under CC BY-ND 4.0, meaning only the official, unmodified version may be distributed publicly, but your contributions can be incorporated into updates by the author. For details, see the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository.
+Contributions to this document are welcome! I encourage the community to suggest improvements, correct errors, or propose additional examples to enhance its value. To contribute, please fork the repository on GitHub, submit pull requests with your changes, or open issues to discuss ideas. All contributions will be reviewed to ensure alignment with the document’s purpose and quality standards. Note that the document is licensed under the BSD 3-Clause License, meaning contributions must retain the copyright notice and license terms, and your contributions can be incorporated into updates by the author. For details, see the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository.
 
 # Table of Contents
 
@@ -349,6 +349,6 @@ Choosing the right rendering method in Next.js depends on factors like performan
 
 # License
 
-This project is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). See the [LICENSE](LICENSE) file for details
+This project is licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause). See the [LICENSE](LICENSE) file for details.
 
-Copyright © 2025 Michael Abler. Licensed under CC BY-ND 4.0.
+Copyright (c) 2025 Michael Abler. Licensed under BSD 3-Clause.

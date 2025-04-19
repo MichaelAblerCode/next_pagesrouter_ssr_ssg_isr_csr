@@ -165,9 +165,10 @@ export async function getStaticPaths()
       - `false`: Returns 404 for unknown paths.
       - `true`: Generates pages on-demand (requires `getStaticProps`).
       - `'blocking'`: Generates pages on-demand with a blocking request.
+    - The `paths` array supplies `params` to `getStaticProps` for fetching page data. `getStaticPaths` requires `getStaticProps` to provide props to the page component, similar to how standalone `getStaticProps` or `getServerSideProps` props are delivered to the page component.
 
 **Purpose:**
-Specifies which dynamic URLs to prerender at build time.
+Designates dynamic URLs for prerendering during build time in static generation.
 
 ```javascript
 export async function getStaticProps({ params })
